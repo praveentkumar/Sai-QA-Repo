@@ -5,6 +5,6 @@
     <members>A12</members>
     <members>A13</members>
   </types>
-  <version>44.0</version>
+  <version>45.0</version>
   <fullName>force-app</fullName>
 </Package>
